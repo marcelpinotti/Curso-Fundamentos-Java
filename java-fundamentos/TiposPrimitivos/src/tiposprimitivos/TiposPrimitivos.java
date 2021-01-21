@@ -17,10 +17,10 @@ public class TiposPrimitivos {
         System.out.print("Digite o nome do aluno: ");
         String nome = teclado.next();
         
-        System.out.print("Digite a nota 1 do aluno (use vígula com separador): ");
+        System.out.print("Digite a nota 1 do aluno (use vígula como separador): ");
         double notaUm = teclado.nextDouble();
         
-        System.out.print("Digite a nota 2 do aluno (use vígula com separador): ");
+        System.out.print("Digite a nota 2 do aluno (use vígula como separador): ");
         double notaDois = teclado.nextDouble();
         
         double media = (notaUm + notaDois) / 2;
