@@ -1,4 +1,4 @@
-package vetortres;
+package vetores;
 
 /**
  * @author Marcel Pinotti
