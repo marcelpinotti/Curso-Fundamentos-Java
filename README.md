@@ -1,4 +1,4 @@
-# FUNDAMENTOS em JAVA :coffee:
+# :coffee: FUNDAMENTOS em JAVA :coffee:
 
 ______
 
